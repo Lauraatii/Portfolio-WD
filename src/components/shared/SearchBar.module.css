@@ -1,0 +1,8 @@
+.searchBar {
+  display: inline-block;
+  width: 35%;
+  margin-top: 25px;
+  margin: 0 0 30px 30px;
+  font-size: 15px;
+  padding: 23px;
+}
